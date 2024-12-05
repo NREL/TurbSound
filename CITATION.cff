@@ -1,0 +1,20 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Gu"
+  given-names: "Jianyu"
+- family-names: "Glaws"
+  given-names: "Andrew"
+- family-names: "Harrison-Atlas"
+  given-names: "Dylan"
+- family-names: "Bortolotti"
+  given-names: "Pietro"
+- family-names: "Kaliski"
+  given-names: "Kenneth"
+- family-names: "Lopez"
+  given-names: "Anthony"
+title: ""
+version: 1.0.0
+doi: 
+date-released: 
+url: "https://github.com/NREL/TurbSound"
