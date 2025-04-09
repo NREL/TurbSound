@@ -2,7 +2,7 @@
 
 This repository contains code for the model described in 
 
-Gu, J., Glaws, A., Harrison-Atlas, D., Bortolotti, P., Kaliski, K., and Lopez, A. "The impact of sound ordinances on the land-based wind technical potential of the United States." In press at Nature Energy.
+Gu, J., Glaws, A., Harrison-Atlas, D., Bortolotti, P., Kaliski, K., and Lopez, A. "The impact of sound ordinances on the land-based wind technical potential of the United States." Nature Energy (2025). [https://doi.org/10.1038/s41560-025-01739-3](https://doi.org/10.1038/s41560-025-01739-3).
 
 ___
 
